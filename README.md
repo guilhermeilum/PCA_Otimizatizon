@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/894568363.svg)](https://doi.org/10.5281/zenodo.14224620)
+
 # Análise e Otimização de Dados Voltamétricos  
 
 Este repositório contém o código desenvolvido para a análise e otimização de dados obtidos por meio de técnicas de voltametria. A metodologia utiliza ferramentas avançadas de aprendizado de máquina, redução de dimensionalidade e otimização de parâmetros, com o objetivo de processar dados de correntes associados a potenciais crescentes, decrescentes e suas combinações.  
